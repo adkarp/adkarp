@@ -72,6 +72,3 @@ Graduate researcher and engineer at George Washington University working at the 
   </tr>
 </table>
 
----
-
-![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adkarp&show_icons=true&theme=tokyonight&hide_border=true)
